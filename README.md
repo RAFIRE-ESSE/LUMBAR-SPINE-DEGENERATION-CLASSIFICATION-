@@ -23,6 +23,6 @@ reduced according to the training to avoid over training of the model.
 Before training the model, we appley HSV filter to the spine MRI image which will help the model
 identifying the deformity in the spine faster and efficiently by enhancing the color spectrum of the
 deeper parts of the spine MRI.
-![184_left_neural_foraminal_narrowing_l5_s1](https://github.com/user-attachments/assets/121fa3ba-9dfc-47e4-976e-d0b00002c147)
-![937_spinal_canal_stenosis_l4_l5](https://github.com/user-attachments/assets/898612c9-91b6-4d17-ba96-a943351e5082)
-![499_right_subarticular_stenosis_l4_l5](https://github.com/user-attachments/assets/a9ce0046-e04f-407f-96dc-b2be7443e6d4)
+![130_right_subarticular_stenosis_l3_l4](https://github.com/user-attachments/assets/771b69da-11c7-4038-b589-9c48591d2557)
+![267_spinal_canal_stenosis_l2_l3](https://github.com/user-attachments/assets/d97c4e48-deb3-442e-9e1d-c3b80c7f4b4a)
+![772_right_neural_foraminal_narrowing_l4_l5](https://github.com/user-attachments/assets/07e00617-c5bb-4364-a12d-0ad4311f115a)
