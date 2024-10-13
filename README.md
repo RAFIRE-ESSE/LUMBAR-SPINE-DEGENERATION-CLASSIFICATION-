@@ -26,3 +26,6 @@ deeper parts of the spine MRI.
 ![130_right_subarticular_stenosis_l3_l4](https://github.com/user-attachments/assets/771b69da-11c7-4038-b589-9c48591d2557)
 ![267_spinal_canal_stenosis_l2_l3](https://github.com/user-attachments/assets/d97c4e48-deb3-442e-9e1d-c3b80c7f4b4a)
 ![772_right_neural_foraminal_narrowing_l4_l5](https://github.com/user-attachments/assets/07e00617-c5bb-4364-a12d-0ad4311f115a)
+
+
+https://www.kaggle.com/code/mafiosoquasar/rafire-model
